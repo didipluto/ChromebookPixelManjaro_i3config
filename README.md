@@ -1,0 +1,1 @@
+# ChromebookPixelManjaro_i3config
